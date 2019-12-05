@@ -1,3 +1,6 @@
+third_party/
+thirdparty/
+3rdparty/
 build/
 .vscode/
 .*

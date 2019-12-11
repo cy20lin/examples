@@ -1,7 +1,7 @@
 
 # See for detail: http://www.open3d.org/docs/release/tutorial/C++/cplusplus_interface.html
 cmake_minimum_required(VERSION 3.1)
-set (CMAKE_CXX_STANDARD 11)
+set (CMAKE_CXX_STANDARD 17)
 
 project(open3d-point-cloud-visualizer)
 
